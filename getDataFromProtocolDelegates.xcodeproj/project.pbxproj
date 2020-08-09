@@ -14,6 +14,7 @@
 		4CE51ABF24DF00B20068A3CB /* getDataFromProtocolDelegates.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 4CE51ABD24DF00B20068A3CB /* getDataFromProtocolDelegates.xcdatamodeld */; };
 		4CE51AC124DF00B50068A3CB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4CE51AC024DF00B50068A3CB /* Assets.xcassets */; };
 		4CE51AC424DF00B60068A3CB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4CE51AC224DF00B50068A3CB /* LaunchScreen.storyboard */; };
+		4CE51ACC24DF00D60068A3CB /* dataVc.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CE51ACB24DF00D60068A3CB /* dataVc.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		4CE51AC024DF00B50068A3CB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4CE51AC324DF00B60068A3CB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4CE51AC524DF00B60068A3CB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4CE51ACB24DF00D60068A3CB /* dataVc.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = dataVc.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				4CE51AB424DF00B20068A3CB /* AppDelegate.swift */,
 				4CE51AB624DF00B20068A3CB /* SceneDelegate.swift */,
 				4CE51AB824DF00B20068A3CB /* ViewController.swift */,
+				4CE51ACB24DF00D60068A3CB /* dataVc.swift */,
 				4CE51ABA24DF00B20068A3CB /* Main.storyboard */,
 				4CE51AC024DF00B50068A3CB /* Assets.xcassets */,
 				4CE51AC224DF00B50068A3CB /* LaunchScreen.storyboard */,
@@ -142,6 +145,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4CE51AB924DF00B20068A3CB /* ViewController.swift in Sources */,
+				4CE51ACC24DF00D60068A3CB /* dataVc.swift in Sources */,
 				4CE51AB524DF00B20068A3CB /* AppDelegate.swift in Sources */,
 				4CE51AB724DF00B20068A3CB /* SceneDelegate.swift in Sources */,
 				4CE51ABF24DF00B20068A3CB /* getDataFromProtocolDelegates.xcdatamodeld in Sources */,
